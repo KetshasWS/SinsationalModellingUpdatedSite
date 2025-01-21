@@ -1,0 +1,64 @@
+.btn {
+ color: #fff;
+}
+
+#band {
+  color: #FFF;
+  /*background-color: #FF8800; *//*#32px */
+  /*background-color: #A9a9a9; Temp BK Colour #B2BEBS*/
+  padding: 32px;
+  /*background-image: url("BandsBackgroundAlt.png");  */
+  background-image: url("StripeGeometricBackground.png");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: auto;
+  width:100%;
+  height: 100%
+}
+
+.ColorTextOverride {
+  color: #FDFDFD;
+}
+
+.lead {
+  color: #FDFDFD;
+}
+
+.featurette-heading {
+  /*color: #FDFDFD; */
+  color: #555555;
+}
+
+.modal-dialog
+{
+    background-color: #FF8800;
+}
+
+.heading {
+  color: #FF8800;
+}
+
+
+/*.SG
+{
+    position: fixed;
+    bottom: 22px; 
+    left: 29px; 
+}   33px -9px */
+
+.FH {
+  background-color: #FF8800;
+        position: relative;
+	float: left;
+	left: -1px;
+	background-position: center;
+	background-size: auto;
+	width: 1005px; /* 530 */
+	bottom: -26px;
+	margin-top: 7px;
+	margin-left: -7px; /* -8 */
+	padding-right: 9px;
+	padding-left: 10px;
+	margin-bottom: 0px;
+	overflow-x: hidden;
+}
