@@ -3,7 +3,7 @@
 }
 
 #band {
-  color: #FFF;
+  color: #a58888;
   /*background-color: #FF8800; *//*#32px */
   /*background-color: #A9a9a9; Temp BK Colour #B2BEBS*/
   padding: 32px;
@@ -17,11 +17,13 @@
 }
 
 .ColorTextOverride {
-  color: #FDFDFD;
+  /*color: #FDFDFD; */
+  color: #444;
 }
 
 .lead {
-  color: #FDFDFD;
+ /*color: #FDFDFD; */
+ color: #444;
 }
 
 .featurette-heading {
@@ -45,6 +47,10 @@
     bottom: 22px; 
     left: 29px; 
 }   33px -9px */
+
+.li {
+ color: #fdfd;
+}
 
 .FH {
   background-color: #FF8800;
